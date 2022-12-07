@@ -1,6 +1,7 @@
 .idea
-*.iml;
+*.iml
 .txt
 *.xml
 secret.txt
 fun.txt
+/EU10_Git_Book.iml
